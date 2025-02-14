@@ -1,3 +1,4 @@
-# CODTECK-TASK1
+# ARITHMETIC LOGIC
+UNIT (ALU)
 
 ![output]()
